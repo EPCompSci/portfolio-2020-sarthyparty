@@ -1,4 +1,4 @@
-<h1>2020 Portfolio</h1>
+<h1>Portfolio</h1>
 
 <h2>Introduction</h2>
 
@@ -15,7 +15,7 @@ During the summer of covid, I began to try my hand at python. I became proficien
 <h3>Link can be found here --> https://github.com/sarthyparty/forumappephs</h3>
 
 After school started, I assembled a small team to work on a full website for students to ask questions and get answers. The website was to be split into two parts, for frontend and backend. The frontend is a react js single page application that makes API calls to a REST API backend built using the python framework Django. 
-<h4>The website is currently in development, this will be update!</h4>
+<h4>The website is currently in development, this will be updated!</h4>
 <h4>Frontend link can be found here --> https://github.com/sarthyparty/forumapp_front</h3>
 <h4>Backend link can be found here --> https://github.com/sarthyparty/forumapp-backapi</h3>
 
