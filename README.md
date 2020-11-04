@@ -2,12 +2,15 @@
 
 <h1>Java</h1>
 
-After learning java for almost 4 months, I decided to try my skills by developing a small game using java awt and jpanel. Me and a small team developed a small shooting game where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting and awfully fast chickens guest star.
+After learning java for almost 4 months, I decided to try my skills by developing a small game using java awt and jpanel. Me and a small team developed a small shooting game where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
 <h3>Link can be found here --> </h3>
 
-<h1>Python and web development</h1>
+<h1>Web Development</h1>
 
+During the summer of covid, I began to try my hand at python. I became proficient in the language; building several complex projects. The first website I built was through a python framework called Django. This website simply offered a way for students to ask and answer I was able to deploy the code to heroku and use the postgresql database they provided
+<h3>Link can be found here --> </h3>
 
+After that
 
 <h1>iOS Development</h1>
 
