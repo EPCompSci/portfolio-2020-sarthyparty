@@ -2,7 +2,7 @@
 
 <h2>Java</h2>
 
-After learning java for almost 4 months, I decided to try my skills by developing a small game using java awt and jpanel. Me and a small team developed a small shooting game where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
+After learning java for almost 4 months, I decided to try my skills by developing a small game using java awt and jpanel. Me and a small team developed a shooting game where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
 <h3>Link can be found here --> https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/</h3>
 
 <h2>Web Development</h2>
