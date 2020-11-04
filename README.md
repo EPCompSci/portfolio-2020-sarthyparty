@@ -1,9 +1,9 @@
 # iOS-Portfolio
-2018-2019 Portfolio
+2020 Portfolio
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+Hello! Obviously I started this class with no experience in developing in Swift, but I did have experience with developing in other languages such as javascript, python, and java. The first project I started was just a simple click game where players click on a button to earn money. The amount of money gained everytime after click the button can be increased by paying a cost to upgrade the amount of money made. Link can be found here --> https://github.com/sarthyparty/clicker_game/
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+The next thing I worked was just a step up: wworking on a simple dodge game. Players in this game must try to dodge falling spikes try to survive as long as possible. Link can be found here --> 
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
+The final project I worked on was a HUGE step up! Starting from a base spritekit project, we built a full game where players must avoid becoming infected. Few players start infected and other players must stay alive and non-infected for as long as possible. Currently I am attempting to setup the connection between AWS DynamoDB and the backend of our iOS Application using a dependacy manager called cocoapods. Link can be found here --> 
 
