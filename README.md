@@ -7,12 +7,12 @@ Hey there! My name is Sarthak Agrawal you're currently reading my github portfol
 <h2>Java</h2>
 
 After learning java for almost 4 months, I decided to try my skills by developing a small game using java awt and jpanel. Me and a small team developed a shooting game where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
-<h3>Link can be found here --> https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/</h3>
+<h4>Link can be found here --> https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/</h3>
 
 <h2>Web Development</h2>
 
 During the summer of covid, I began to try my hand at python. I became proficient in the language; building several complex projects. The first website I built was through a python framework called Django. This website simply offered a way for students to ask and answer I was able to deploy the code to heroku and use the postgresql database they provided
-<h3>Link can be found here --> https://github.com/sarthyparty/forumappephs</h3>
+<h4>Link can be found here --> https://github.com/sarthyparty/forumappephs</h3>
 
 After school started, I assembled a small team to work on a full website for students to ask questions and get answers. The website was to be split into two parts, for frontend and backend. The frontend is a react js single page application that makes API calls to a REST API backend built using the python framework Django. 
 <h4>The website is currently in development, this will be updated!</h4>
