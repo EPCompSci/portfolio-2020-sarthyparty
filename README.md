@@ -9,7 +9,9 @@ The next thing I worked was just a small step up: working on a simple dodge game
 
 The next project I worked on was a HUGE step up! Starting from a base spritekit project, me along with a small team built a full game where players must avoid becoming infected. Few players start infected and other players must stay alive and non-infected for as long as possible. 
 <div class = "text-purple">Currently I am attempting to setup the connection between AWS DynamoDB and the backend of our iOS Application using a dependacy manager called cocoapods.</div>
-
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 <h3>Link can be found here --> </h3>
 
 
