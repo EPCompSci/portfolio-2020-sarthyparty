@@ -6,8 +6,7 @@ Hey there! My name is Sarthak Agrawal you're currently reading my github portfol
 
 <h2>Java</h2>
 
-After learning java for almost 4 months, I decided to try my skills by developing a <a href = "https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/"small game</a> using java awt and jpanel. Me and a small team developed a shooting game where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
-<h4>Link can be found here --> </h3>
+After learning java for almost 4 months, I decided to try my skills by developing a game using java awt and jpanel. Me and a small team developed a shooting game called [GETAWAY](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/) where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
 
 <h2>Web Development</h2>
 
