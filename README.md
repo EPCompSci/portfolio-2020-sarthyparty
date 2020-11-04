@@ -5,5 +5,5 @@ Hello! Obviously I started this class with no experience in developing in Swift,
 
 The next thing I worked was just a step up: wworking on a simple dodge game. Players in this game must try to dodge falling spikes try to survive as long as possible. Link can be found here --> 
 
-The final project I worked on was a HUGE step up! Starting from a base spritekit project, we built a full game where players must avoid becoming infected. Few players start infected and other players must stay alive and non-infected for as long as possible. Currently I am attempting to setup the connection between AWS DynamoDB and the backend of our iOS Application using a dependacy manager called cocoapods. Link can be found here --> 
+The final project I worked on was a HUGE step up! Starting from a base spritekit project, me along with a small team built a full game where players must avoid becoming infected. Few players start infected and other players must stay alive and non-infected for as long as possible. Currently I am attempting to setup the connection between AWS DynamoDB and the backend of our iOS Application using a dependacy manager called cocoapods. Link can be found here --> 
 
