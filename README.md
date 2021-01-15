@@ -21,8 +21,7 @@ I started the iOS Development class with no experience in developing in Swift, b
 
 The next thing I worked was just a small step up: working on a [dodge](https://github.com/sarthyparty/dodge/) game. Players in this game must try to dodge falling spikes try to survive as long as possible.
 
-The next project I worked on was a HUGE step up! Starting from a base spritekit project, me along with a small team built a full game where players must avoid becoming infected; the game is called [Infection Tag](https://github.com/sarthyparty/Infection-Tag/). Few players start infected and other players must stay alive and non-infected for as long as possible.
-<h4>Currently I am attempting to setup the connection between AWS DynamoDB and the backend of our iOS Application using a dependacy manager called cocoapods.</h4>
+The next project I worked on was a HUGE step up! Starting from a base spritekit project, me along with a small team built a full game where players must avoid becoming infected; the game is called [Apocalypse Survivor](https://github.com/sarthyparty/Infection-Tag/). Zombies spawn from all sides, and players must avoid the zombies by shooting them, outmanuavering, and even using abilities. 
 
 
 
