@@ -4,6 +4,7 @@
 
 Hey there! My name is Sarthak Agrawal you're currently reading my github portfolio. Below you will see some highlights of my projects. I was first exposed to programming as a freshman in highschool in the year 2018. My knowledge mainly extended to MIT APP Inventor and some java basics. As a sophomore, my java knowledge grew. At the end of my sophomore year, I was proficient in java and several libraries. Over the covid summer, I learned python and javascript and was able to build a few projects described here. In 2020, as a junior, I took iOS Development and developed several games and projects listed below as well.
 
+I have a [personal website](sarthyparty.github.io) with some more information about projects as well.
 <h2>Java</h2>
 
 After learning java for almost 4 months, I decided to try my skills by developing a game using java awt and jpanel. Me and a small team developed a shooting game called [GETAWAY](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/) where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
